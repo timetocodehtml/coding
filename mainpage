@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>celebrate</title>
+        <style>
+            h1 {
+                border: 2px dashed grey;
+                color: orange;
+                width: 500px;
+            }
+            p {
+                border: 10px solid yellow;
+                width: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Yay. You made it all the way.</h1>
+        <p>You <em>made</em> it all the way! You anwsered all the questions right!</p>
+        <img src="smiley-face.jpeg" alt="smiley face picture"/>
+    </body>
+</html>
